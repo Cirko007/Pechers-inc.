@@ -1,2 +1,4 @@
-# Pechers-inc.
-my first game 
+# Pechersk-inc.
+Games included
+- Dr pidord
+- coming soon
