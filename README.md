@@ -1,6 +1,6 @@
 # Pechersk-inc.
 # Vito's Adventure
-# Today in your hand
+# Today in your hands
 
 <hr>
 
