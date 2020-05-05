@@ -3,6 +3,6 @@
 
 <hr>
 
-Games included
+Games included:
 - Dr pidord
 - Vito's Adventure
