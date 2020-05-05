@@ -1,7 +1,7 @@
 # Pechersk-inc.
-<h1>Vito's Adventure<h1>
-<h2>Today in your hand<h2>
-<br><hr><br>
+#Vito's Adventure
+#Today in your hand
+<hr>
 Games included
 - Dr pidord
 - Vito's Adventure
