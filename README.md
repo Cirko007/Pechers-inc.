@@ -1,5 +1,4 @@
 # Pechersk-inc.
-# Vito's Adventure
 
 <hr>
 
